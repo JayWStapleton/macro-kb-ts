@@ -7,5 +7,5 @@ The keypress sends CTRL-SHIFT-ALT-T and CTRL-SHIFT-ALT-R which I've mapped one t
 
 On my machine (PopOS/Gnome) it is under settings/keyboard/custom shortcuts
 
-![tskeyboard](images/tskb.jpeg)
+![tskeyboard](tskb.jpeg)
 
